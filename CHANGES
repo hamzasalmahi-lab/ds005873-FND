@@ -1,3 +1,12 @@
+1.2.0 2026-05-15
+  - DEWS Analysis — Negative Control (epileptic seizures)
+    dews_analysis.py computes HEP amplitude and rolling variance for sub-001
+    (N=4 focal epileptic seizures). HRIT v3 predicts no systematic pre-ictal
+    variance rise in epilepsy (negative control arm). Results: impaired-awareness
+    seizures show pre-ictal variance decrease (ratios 0.62, 0.86); aware seizures
+    show near-flat variance (1.09, 1.06). Consistent with framework predictions.
+    N=1, exploratory only.
+
 1.1.0 2025-03-17
   - Corrected accelerometer data
 1.0.1 2025-02-04
