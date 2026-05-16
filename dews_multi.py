@@ -208,6 +208,11 @@ def run_dews(sub_id: str, run_id: str,
         if m_early.sum() > 5 and m_late.sum() > 5:
             var_e = float(np.nanmean(rolling_var[m_early]))
             var_l = float(np.nanmean(rolling_var[m_late]))
+            # skip if either window is still in the NaN warm-up region
+            if np.isnan(var_e) or np.isnan(var_l) or var_e == 0:
+                print(f"  {si+1:<4} {row['eventType']:<32} "
+                      f"{'insufficient data (NaN)':>40}")
+                continue
             ratio = var_l / var_e
             dirn  = ("UP ↑"   if ratio > 1.05 else
                      "DOWN ↓" if ratio < 0.95 else

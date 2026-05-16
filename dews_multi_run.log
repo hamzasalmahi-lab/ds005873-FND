@@ -1,0 +1,311 @@
+
+── sub-047/run-01: 6 seizure(s) ──
+  EEG: BTEright SD  |  ECG: ECG SD
+  Duration: 1.93 h  (115.7 min)
+  R-peaks: 8908  |  Mean HR: 77.0 bpm
+  Ectopic removed: 491
+  Valid epochs: 5817  |  Rejected: 2600 (30.9%)
+  Rolling window: 251 beats (~5 min)
+
+  #    Type                                Early     Late   Ratio    Dir    n_e    n_l
+  --------------------------------------------------------------------------------
+  1    sz_foc_ia_nm                      178.075  231.289    1.30   UP ↑    971    316
+  2    sz_foc_ia_nm                      185.142  357.096    1.93   UP ↑    967    199
+  3    sz_foc_ia_nm                      232.907  696.390    2.99   UP ↑    829    232
+  4    sz_foc_ia_nm                      310.726  687.588    2.21   UP ↑    768    256
+  5    sz_foc_ia_nm                      365.234  661.918    1.81   UP ↑    741    256
+  6    sz_foc_ia_nm                      447.140  689.876    1.54   UP ↑    722    277
+  Figure saved: dews_sub-047_run-01.png
+
+── sub-047/run-02: 12 seizure(s) ──
+  EEG: BTEright SD  |  ECG: ECG SD
+  Duration: 17.24 h  (1034.3 min)
+  R-peaks: 71816  |  Mean HR: 69.4 bpm
+  Ectopic removed: 907
+  Valid epochs: 53709  |  Rejected: 17200 (24.3%)
+  Rolling window: 259 beats (~5 min)
+
+  #    Type                                Early     Late   Ratio    Dir    n_e    n_l
+  --------------------------------------------------------------------------------
+  1    sz_foc_ia_nm                      387.474  411.097    1.06   UP ↑    834    231
+  2    sz_foc_ia_nm                      367.586  547.588    1.49   UP ↑    785    286
+  3    sz_foc_ia_nm                      360.861  480.715    1.33   UP ↑    771    296
+  4    sz_foc_ia_nm                      224.731  162.137    0.72 DOWN ↓    831    299
+  5    sz_foc_ia_nm                      203.961  235.883    1.16   UP ↑    834    286
+  6    sz_foc_ia_nm                      202.172  281.725    1.39   UP ↑    836    262
+  7    sz_foc_ia_nm                      200.326  368.440    1.84   UP ↑    853    208
+  8    sz_foc_ia_nm                      249.012  839.972    3.37   UP ↑    783    280
+  9    sz_foc_ia_nm                      327.434  823.650    2.52   UP ↑    786    227
+  10   sz_foc_ia_nm                      471.179  635.980    1.35   UP ↑    768    221
+  11   sz_foc_ia_nm                      647.416  595.199    0.92 DOWN ↓    690    263
+  12   sz_foc_ia_nm                      656.566  530.202    0.81 DOWN ↓    742    254
+  Figure saved: dews_sub-047_run-02.png
+
+── sub-047/run-03: 5 seizure(s) ──
+  EEG: BTEright SD  |  ECG: ECG SD
+  Duration: 3.85 h  (230.8 min)
+  R-peaks: 14671  |  Mean HR: 63.6 bpm
+  Ectopic removed: 3
+  Valid epochs: 1456  |  Rejected: 13212 (90.1%)
+  Rolling window: 41 beats (~5 min)
+
+  #    Type                                Early     Late   Ratio    Dir    n_e    n_l
+  --------------------------------------------------------------------------------
+  1    sz_foc_ia_nm                                            insufficient data
+  2    sz_foc_ia_nm                      484.691  453.698    0.94 DOWN ↓     52      8
+  3    sz_foc_ia_nm                      478.882  454.072    0.95 DOWN ↓     48      7
+  4    sz_foc_ia_nm                      458.477  454.072    0.99 FLAT →      9      7
+  5    sz_foc_ia_nm                      438.920  379.870    0.87 DOWN ↓     15     12
+  Figure saved: dews_sub-047_run-03.png
+
+── sub-047/run-04: 21 seizure(s) ──
+  EEG: BTEright SD  |  ECG: ECG SD
+  Duration: 20.13 h  (1207.5 min)
+  R-peaks: 81924  |  Mean HR: 67.8 bpm
+  Ectopic removed: 1223
+  Valid epochs: 40624  |  Rejected: 40077 (49.7%)
+  Rolling window: 168 beats (~5 min)
+
+  #    Type                                Early     Late   Ratio    Dir    n_e    n_l
+  --------------------------------------------------------------------------------
+  1    sz_foc_ia_nm                      603.082  542.321    0.90 DOWN ↓    320    239
+  2    sz_foc_ia_nm                      640.157  458.861    0.72 DOWN ↓    359    255
+  3    sz_foc_ia_nm                      647.926  430.542    0.66 DOWN ↓    395    253
+  4    sz_foc_ia_nm                      643.122  440.792    0.69 DOWN ↓    418    248
+  5    sz_foc_ia_nm                      626.245  473.289    0.76 DOWN ↓    416    237
+  6    sz_foc_ia_nm                      590.942  534.104    0.90 DOWN ↓    439    233
+  7    sz_foc_ia_nm                      563.370  593.688    1.05   UP ↑    470    233
+  8    sz_foc_ia_nm                      559.470  590.299    1.06   UP ↑    537    224
+  9    sz_foc_ia_nm                      562.405  576.599    1.03 FLAT →    552    231
+  10   sz_foc_ia_nm                      581.235  520.423    0.90 DOWN ↓    612    245
+  11   sz_foc_ia_nm                      580.013  517.655    0.89 DOWN ↓    618    236
+  12   sz_foc_ia_nm                      569.723  525.996    0.92 DOWN ↓    636    238
+  13   sz_foc_ia_nm                      640.949  609.189    0.95 FLAT →    731    262
+  14   sz_foc_ia_nm                      633.972  589.270    0.93 DOWN ↓    774    174
+  15   sz_foc_ia_nm                      622.646  598.005    0.96 FLAT →    805    126
+  16   sz_foc_ia_nm                      603.133  689.036    1.14   UP ↑    776    170
+  17   sz_foc_ia_nm                      605.097  776.962    1.28   UP ↑    734    186
+  18   sz_foc_ia_nm                      620.115  906.099    1.46   UP ↑    691    235
+  19   sz_foc_ia_nm                      642.967  961.561    1.50   UP ↑    695    204
+  20   sz_foc_ia_nm                      655.463  995.097    1.52   UP ↑    654    211
+  21   sz_foc_ia_nm                      794.335  924.421    1.16   UP ↑    550    289
+  Figure saved: dews_sub-047_run-04.png
+  [SKIP] sub-047/run-05: no seizures
+
+── sub-047/run-06: 6 seizure(s) ──
+  EEG: BTEright SD  |  ECG: ECG SD
+  Duration: 4.17 h  (249.9 min)
+  R-peaks: 19448  |  Mean HR: 77.8 bpm
+  Ectopic removed: 20
+  Valid epochs: 3774  |  Rejected: 15654 (80.6%)
+  Rolling window: 80 beats (~5 min)
+
+  #    Type                                Early     Late   Ratio    Dir    n_e    n_l
+  --------------------------------------------------------------------------------
+  1    sz_foc_ia_nm                                            insufficient data
+  2    sz_foc_ia_nm                                            insufficient data
+  3    sz_foc_ia_nm                                            insufficient data
+  4    sz_foc_ia_nm                                            insufficient data
+  5    sz_foc_ia_nm                                            insufficient data
+  6    sz_foc_ia_nm                                            insufficient data
+
+── sub-047/run-07: 14 seizure(s) ──
+  EEG: BTEright SD  |  ECG: ECG SD
+  Duration: 17.55 h  (1052.8 min)
+  R-peaks: 74059  |  Mean HR: 70.3 bpm
+  Ectopic removed: 1014
+  Valid epochs: 32416  |  Rejected: 40629 (55.6%)
+  Rolling window: 154 beats (~5 min)
+
+  #    Type                                Early     Late   Ratio    Dir    n_e    n_l
+  --------------------------------------------------------------------------------
+  1    sz_foc_ia_nm                      680.896 2079.381    3.05   UP ↑    293     37
+  2    sz_foc_ia_nm                      989.466 1107.942    1.12   UP ↑    730    217
+  3    sz_foc_ia_nm                     1022.768 1135.338    1.11   UP ↑    691    197
+  4    sz_foc_ia_nm                     1205.108 1051.424    0.87 DOWN ↓    737    227
+  5    sz_foc_ia_nm                     1185.112  954.433    0.81 DOWN ↓    753    209
+  6    sz_foc_ia_nm                     1134.323 1002.214    0.88 DOWN ↓    705    231
+  7    sz_foc_ia_nm                     1100.579 1129.670    1.03 FLAT →    708    166
+  8    sz_foc_ia_nm                     1080.836 1550.743    1.43   UP ↑    651    150
+  9    sz_foc_ia_nm                     1080.383 1189.972    1.10   UP ↑    567    219
+  10   sz_foc_ia_nm                     1140.349  960.203    0.84 DOWN ↓    541    243
+  11   sz_foc_ia_nm                     1136.653  944.430    0.83 DOWN ↓    543    248
+/workspaces/ds005873-FND/dews_multi.py:209: RuntimeWarning: Mean of empty slice
+  var_e = float(np.nanmean(rolling_var[m_early]))
+  12   sz_foc_ia_nm                     1127.696 1001.438    0.89 DOWN ↓    584    262
+  13   sz_foc_ia_nm                     1115.448  978.870    0.88 DOWN ↓    618    285
+  14   sz_foc_ia_nm                     1103.097  880.305    0.80 DOWN ↓    693    255
+  Figure saved: dews_sub-047_run-07.png
+
+Saved: dews_sub-047_results.csv  (57 seizures)
+
+── sub-047 SUMMARY ──
+  DOWN ↓: 24 seizure(s)  (mean ratio 0.84)
+  FLAT →: 5 seizure(s)  (mean ratio 0.99)
+  UP ↑: 28 seizure(s)  (mean ratio 1.62)
+  [SKIP] sub-035/run-01: no seizures
+  [SKIP] sub-035/run-02: no seizures
+
+── sub-035/run-03: 13 seizure(s) ──
+  EEG: BTEright SD  |  ECG: ECG SD
+  Duration: 9.97 h  (598.1 min)
+  R-peaks: 39349  |  Mean HR: 65.8 bpm
+  Ectopic removed: 2557
+  Valid epochs: 26194  |  Rejected: 10598 (28.8%)
+  Rolling window: 218 beats (~5 min)
+
+  #    Type                                Early     Late   Ratio    Dir    n_e    n_l
+  --------------------------------------------------------------------------------
+  1    sz_foc_a_m_hyperkinetic           342.901  751.348    2.19   UP ↑    847    132
+  2    sz_foc_a_m_hyperkinetic            91.999  136.737    1.49   UP ↑    903    272
+  3    sz_foc_a_m_hyperkinetic           164.312  246.620    1.50   UP ↑    683    240
+  4    sz_foc_a_m_hyperkinetic           114.553  156.829    1.37   UP ↑    958    284
+  5    sz_foc_a_m_hyperkinetic           151.780  143.127    0.94 DOWN ↓    825    299
+  6    sz_foc_a_m_hyperkinetic           175.951  217.150    1.23   UP ↑    803    280
+  7    sz_foc_a_m_hyperkinetic           195.975  230.774    1.18   UP ↑    789    250
+  8    sz_foc_a_m_hyperkinetic           277.248  248.069    0.89 DOWN ↓    701    229
+  9    sz_foc_a_m_hyperkinetic           191.244  116.385    0.61 DOWN ↓    748    261
+  10   sz_foc_a_m_hyperkinetic           119.431  106.222    0.89 DOWN ↓    800    278
+  11   sz_foc_a_m_hyperkinetic           112.865  112.500    1.00 FLAT →    837    282
+  12   sz_foc_a_m_hyperkinetic           117.389  147.642    1.26   UP ↑    845    263
+  13   sz_foc_a_m_hyperkinetic           140.642  181.118    1.29   UP ↑    836    243
+  Figure saved: dews_sub-035_run-03.png
+
+── sub-035/run-04: 3 seizure(s) ──
+  EEG: BTEright SD  |  ECG: ECG SD
+  Duration: 1.37 h  (82.1 min)
+  R-peaks: 5445  |  Mean HR: 66.4 bpm
+  Ectopic removed: 194
+  Valid epochs: 4141  |  Rejected: 1110 (21.1%)
+  Rolling window: 253 beats (~5 min)
+
+  #    Type                                Early     Late   Ratio    Dir    n_e    n_l
+  --------------------------------------------------------------------------------
+  1    sz_foc_a_m_hyperkinetic                           insufficient data (NaN)
+  2    sz_foc_a_m_hyperkinetic           720.100  615.630    0.85 DOWN ↓    722    287
+  3    sz_foc_a_m_hyperkinetic           558.299  542.919    0.97 FLAT →    736    274
+  Figure saved: dews_sub-035_run-04.png
+  [SKIP] sub-035/run-05: no seizures
+
+── sub-035/run-06: 3 seizure(s) ──
+  EEG: BTEright SD  |  ECG: ECG SD
+  Duration: 8.29 h  (497.3 min)
+  R-peaks: 37905  |  Mean HR: 76.2 bpm
+  Ectopic removed: 1375
+  Valid epochs: 18291  |  Rejected: 18239 (49.9%)
+  Rolling window: 185 beats (~5 min)
+
+  #    Type                                Early     Late   Ratio    Dir    n_e    n_l
+  --------------------------------------------------------------------------------
+  1    sz_foc_a_m_hyperkinetic           654.931  696.712    1.06   UP ↑    524    158
+  2    sz_foc_a_m_hyperkinetic           759.256  939.148    1.24   UP ↑    493    143
+  3    sz_foc_a_m_hyperkinetic           301.961  305.569    1.01 FLAT →   1166    394
+  Figure saved: dews_sub-035_run-06.png
+
+── sub-035/run-07: 14 seizure(s) ──
+  EEG: BTEright SD  |  ECG: ECG SD
+  Duration: 11.23 h  (673.7 min)
+  R-peaks: 42542  |  Mean HR: 63.1 bpm
+  Ectopic removed: 1371
+  Valid epochs: 36714  |  Rejected: 4457 (10.8%)
+  Rolling window: 277 beats (~5 min)
+
+  #    Type                                Early     Late   Ratio    Dir    n_e    n_l
+  --------------------------------------------------------------------------------
+  1    sz_foc_a_m_hyperkinetic           271.837  381.633    1.40   UP ↑    912    287
+  2    sz_foc_a_m_hyperkinetic           747.496  715.680    0.96 FLAT →    771    251
+  3    sz_foc_a_m_hyperkinetic           719.402  210.213    0.29 DOWN ↓    731    283
+  4    sz_foc_a_m_hyperkinetic           318.540  517.407    1.62   UP ↑    602    226
+  5    sz_foc_a_m_hyperkinetic           399.027  141.488    0.35 DOWN ↓    527    238
+  6    sz_foc_a_m_hyperkinetic           327.709  164.959    0.50 DOWN ↓    664    237
+  7    sz_foc_a_m_hyperkinetic            48.328   52.178    1.08   UP ↑    880    251
+  8    sz_foc_a_m_hyperkinetic            49.866   65.536    1.31   UP ↑    837    268
+  9    sz_foc_a_m_hyperkinetic            73.207  109.000    1.49   UP ↑    760    291
+  10   sz_foc_a_m_hyperkinetic            96.671  105.473    1.09   UP ↑    772    289
+  11   sz_foc_a_m_hyperkinetic           113.087  104.475    0.92 DOWN ↓    821    282
+  12   sz_foc_a_m_hyperkinetic           111.566   91.674    0.82 DOWN ↓    807    256
+  13   sz_foc_a_m_hyperkinetic           102.022  105.244    1.03 FLAT →    780    284
+  14   sz_foc_a_m_hyperkinetic            97.419   94.816    0.97 FLAT →    782    230
+  Figure saved: dews_sub-035_run-07.png
+  [SKIP] sub-035/run-08: no seizures
+
+── sub-035/run-09: 4 seizure(s) ──
+  EEG: BTEright SD  |  ECG: ECG SD
+  Duration: 5.82 h  (349.4 min)
+  R-peaks: 26128  |  Mean HR: 74.8 bpm
+  Ectopic removed: 770
+  Valid epochs: 19786  |  Rejected: 5572 (22.0%)
+  Rolling window: 283 beats (~5 min)
+
+  #    Type                                Early     Late   Ratio    Dir    n_e    n_l
+  --------------------------------------------------------------------------------
+  1    sz_foc_a_m_hyperkinetic           272.925  181.997    0.67 DOWN ↓    949    284
+  2    sz_foc_a_m_hyperkinetic           496.918  520.400    1.05 FLAT →    739    287
+  3    sz_foc_a_m_hyperkinetic           382.667  275.401    0.72 DOWN ↓    826    246
+  4    sz_foc_a_m_hyperkinetic           376.726  360.822    0.96 FLAT →    794    245
+  Figure saved: dews_sub-035_run-09.png
+  [SKIP] sub-035/run-10: no seizures
+
+── sub-035/run-11: 12 seizure(s) ──
+  EEG: BTEright SD  |  ECG: ECG SD
+  Duration: 10.36 h  (621.6 min)
+  R-peaks: 40659  |  Mean HR: 65.4 bpm
+  Ectopic removed: 1477
+  Valid epochs: 37320  |  Rejected: 1862 (4.8%)
+  Rolling window: 300 beats (~5 min)
+
+  #    Type                                Early     Late   Ratio    Dir    n_e    n_l
+  --------------------------------------------------------------------------------
+  1    sz_foc_a_m_hyperkinetic           118.916  120.081    1.01 FLAT →    883    294
+  2    sz_foc_a_m_hyperkinetic            71.080  113.511    1.60   UP ↑    874    304
+  3    sz_foc_a_m_hyperkinetic           147.505  315.269    2.14   UP ↑    874    302
+  4    sz_foc_a_m_hyperkinetic           222.226  156.197    0.70 DOWN ↓    798    275
+  5    sz_foc_a_m_hyperkinetic            63.490   56.639    0.89 DOWN ↓    935    309
+  6    sz_foc_a_m_hyperkinetic            86.086  129.584    1.51   UP ↑    909    275
+  7    sz_foc_a_m_hyperkinetic           115.129  154.931    1.35   UP ↑    862    306
+  8    sz_foc_a_m_hyperkinetic           139.203  222.947    1.60   UP ↑    847    286
+  9    sz_foc_a_m_hyperkinetic           176.071   88.548    0.50 DOWN ↓    867    307
+  10   sz_foc_a_m_hyperkinetic           115.341   56.861    0.49 DOWN ↓    939    294
+  11   sz_foc_a_m_hyperkinetic            87.109  158.299    1.82   UP ↑    889    299
+  12   sz_foc_a_m_hyperkinetic           118.858  131.719    1.11   UP ↑    861    301
+  Figure saved: dews_sub-035_run-11.png
+
+── sub-035/run-12: 1 seizure(s) ──
+  EEG: BTEright SD  |  ECG: ECG SD
+  Duration: 0.53 h  (31.8 min)
+  R-peaks: 2415  |  Mean HR: 75.9 bpm
+  Ectopic removed: 148
+  Valid epochs: 2034  |  Rejected: 233 (10.3%)
+  Rolling window: 319 beats (~5 min)
+
+  #    Type                                Early     Late   Ratio    Dir    n_e    n_l
+  --------------------------------------------------------------------------------
+  1    sz_foc_a_m_hyperkinetic           303.191   98.415    0.32 DOWN ↓    989    295
+  Figure saved: dews_sub-035_run-12.png
+  [SKIP] sub-035/run-13: no seizures
+
+── sub-035/run-14: 5 seizure(s) ──
+  EEG: BTEright SD  |  ECG: ECG SD
+  Duration: 5.13 h  (307.9 min)
+  R-peaks: 22557  |  Mean HR: 73.3 bpm
+  Ectopic removed: 1104
+  Valid epochs: 7584  |  Rejected: 13869 (64.6%)
+  Rolling window: 123 beats (~5 min)
+
+  #    Type                                Early     Late   Ratio    Dir    n_e    n_l
+  --------------------------------------------------------------------------------
+  1    sz_foc_a_m_hyperkinetic           109.910  255.537    2.32   UP ↑    387    114
+  2    sz_foc_a_m_hyperkinetic           219.266  102.858    0.47 DOWN ↓    286     46
+  3    sz_foc_a_m_hyperkinetic           243.303  102.941    0.42 DOWN ↓    223     84
+  4    sz_foc_a_m_hyperkinetic            71.864  116.378    1.62   UP ↑    415     97
+  5    sz_foc_a_m_hyperkinetic           109.870  157.610    1.43   UP ↑    331    143
+  Figure saved: dews_sub-035_run-14.png
+
+Saved: dews_sub-035_results.csv  (54 seizures)
+
+── sub-035 SUMMARY ──
+  DOWN ↓: 19 seizure(s)  (mean ratio 0.65)
+  FLAT →: 9 seizure(s)  (mean ratio 1.00)
+  UP ↑: 26 seizure(s)  (mean ratio 1.47)
+
+Combined CSV saved: dews_all_results.csv (111 total seizures)
